@@ -1,0 +1,32 @@
+ID_number
+Diagnosis
+radius_m
+texture_m
+perimeter_m
+area_m
+smoothness_m
+compactness_m
+concavity_m
+concave_points_m
+symmetry_m
+fractal dimension_m
+radius_se
+texture_se
+perimeter_se
+area_se
+smoothness_se
+compactness_se
+concavity_se
+concave_points_se
+symmetry_se
+fractal dimension_se
+radius_max
+texture_max
+perimeter_max
+area_max
+smoothness_max
+compactness_max
+concavity_max
+concave_points_max
+symmetry_max
+fractal dimension_max
