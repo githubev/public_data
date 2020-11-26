@@ -82,6 +82,8 @@ SRd - Solar radiation total for the day
 WSa - Wind speed near sunrise (using 09-12 UTC forecast mode)
 WSp - Wind speed mid-day (using 15-21 UTC forecast mode)
 
+the final attribute indicates the class value as “1” for an ozone day and “0” for a normal day.
+
 Please refer to those two .names files.
 
 
